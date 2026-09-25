@@ -34,21 +34,49 @@
 
 ---
 
-### Projects
-**BioFlux** • `Private` *Traceability system designed for biomedicine professionals.*
-<br />
-**Quester** • `Private` *RPG-style Android task management application.*
-<br />
-**GeneIA** • `Private` *AI clinical assistant for healthcare providers.*
-
----
-
 ### Education
 **Analysis and Systems Development** • `Completed` *2024 - 2026*
 <br />
 **Computer Science** • `In Progress`
 
 </div>
+
+---
+
+### Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=j5wko9sefsh238tk9xxne6vp1&amp;redirect=true">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=j5wko9sefsh238tk9xxne6vp1&amp;cover_image=true&amp;theme=spotify-embed&amp;show_offline=true&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false&amp;bar_color=7722ea&amp;bar_color_cover=true&amp;mode=light"
+      alt="Spotify — música atual"
+    />
+  </a>
+</p>
+
+---
+
+### GitHub Metrics
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api?username=Aykolin&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="170"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Aykolin&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Aykolin&amp;theme=tokyonight&amp;hide_border=true"
+    alt="Sequência de contribuições"
+  />
+</p>
 
 ---
 
